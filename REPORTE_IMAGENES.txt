@@ -1,0 +1,40 @@
+REPORTE DE IMÁGENES — V6
+
+Rutas registradas: 30
+Archivos incluidos: 3
+Rutas locales pendientes: 27
+URLs externas: 0
+
+ARCHIVOS INCLUIDOS
+- Gin Tonic Clásico: assets/images/gin-tonic-clasico.png
+- Gin Tonic Berry Fiesta: assets/images/gin-tonic-berry-fiesta.png
+- Gin Tonic de Pepino: assets/images/gin-tonic-pepino.png
+
+RUTAS LOCALES PENDIENTES (agrega el archivo en esa ubicación o reemplaza la celda por una URL directa)
+- Aperol Spritz: assets/images/aperol-spritz.png
+- Caipirinha: assets/images/caipirinha.png
+- Chuflay: assets/images/chuflay.png
+- Cuba Libre: assets/images/cuba-libre.png
+- Daiquiri de Frutilla: assets/images/daiquiri-frutilla.png
+- Daiquiri de Maracuyá: assets/images/daiquiri-maracuya.png
+- Daiquiri de Piña: assets/images/daiquiri-pina.png
+- Fernet: assets/images/fernet.png
+- Limonada Eléctrica: assets/images/limonada-electrica.png
+- Mega Berry Frutilla: assets/images/mega-frutilla.png
+- Mega Berry Limón: assets/images/mega-limon.png
+- Mega Berry Maracuyá: assets/images/mega-maracuya.png
+- Mojito: assets/images/mojito.png
+- Negroni: assets/images/negroni.png
+- Pecera: assets/images/pecera.png
+- Piña Colada: assets/images/pina-colada.png
+- Tequila Sunrise: assets/images/tequila-sunrise.png
+- Vampire Sips: assets/images/vampire-sips.png
+- Singroni: assets/images/singroni.png
+- Vodka Sunrise: assets/images/tequila-sunrise.png
+- Soda Italiana de Arándanos: assets/images/soda-italiana-arandanos.png
+- Soda Italiana de Frutos Rojos: assets/images/soda-italiana-frutos-rojos.png
+- Tentación de Arándanos: assets/images/tentacion-arandanos.png
+- Tequila Sunrise Virgen: assets/images/tequila-sunrise.png
+- Mojito Virgen: assets/images/mojito.png
+- Piña Colada Virgen: assets/images/pina-colada.png
+- Soda Italiana de Piña: assets/images/soda-italiana-pina.png

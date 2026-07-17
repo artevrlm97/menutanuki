@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f7f9ff">
+  <title>Bebida — Tanuki Bar</title>
+  <meta name="description" content="Precio, sabores, ingredientes y opciones de la bebida seleccionada.">
+  <link rel="stylesheet" href="styles.css?v=7">
+</head>
+<!-- Tanuki Menu Digital V7 -->
+<body data-page="detail">
+  <a class="skip-link" href="#detalle">Saltar al detalle</a>
+  <div class="ambient ambient-one" aria-hidden="true"></div>
+  <div class="ambient ambient-two" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="header-inner header-inner-simple">
+      <a class="brand" href="index.html" aria-label="Tanuki Bar, Terraza Pascana, inicio">TANUKI BAR<small>TERRAZA PASCANA</small></a>
+      <span class="header-right nav-link">Menú digital</span>
+    </div>
+  </header>
+
+  <main id="detalle" class="detail-shell">
+    <div class="detail-toolbar glass-panel">
+      <a class="back-link" href="index.html"><span aria-hidden="true">←</span> Volver al menú</a>
+      <span class="detail-toolbar-label">Tanuki Bar · Terraza Pascana</span>
+    </div>
+
+    <section class="detail-hero glass-panel">
+      <div id="detailImage" class="detail-image"></div>
+      <div class="detail-info">
+        <p id="detailCategory" class="detail-category"></p>
+        <h1 id="detailTitle" class="detail-title"></h1>
+        <p id="detailPrice" class="detail-price"></p>
+
+        <div class="detail-block">
+          <p class="section-label">Sabores</p>
+          <div id="detailTastes" class="detail-tastes"></div>
+        </div>
+
+        <div id="variantSection" class="detail-block">
+          <div class="section-heading-row">
+            <p class="section-label">Opciones de sabor</p>
+            <span class="swipe-hint">Desliza para ver más</span>
+          </div>
+          <div id="variantPicker" class="variant-picker"></div>
+        </div>
+
+        <p id="dataState" class="data-state" role="status"></p>
+      </div>
+    </section>
+
+    <section class="ingredients-section glass-panel">
+      <div class="ingredients-grid">
+        <div class="ingredients-heading">
+          <p class="eyebrow">Composición</p>
+          <h2>Ingredientes</h2>
+          <p class="ingredients-copy">Una lectura rápida y clara de lo que compone esta bebida.</p>
+        </div>
+        <ol id="ingredientList" class="ingredients-list"></ol>
+      </div>
+    </section>
+  </main>
+
+  <a class="mobile-back-bar" href="index.html"><span aria-hidden="true">←</span> Ver todo el menú</a>
+  <footer class="site-footer">Tanuki Bar · Terraza Pascana · Menú Digital</footer>
+  <script src="config.js?v=7"></script>
+  <script src="fallback-data.js?v=7"></script>
+  <script src="app.js?v=7"></script>
+</body>
+</html>
