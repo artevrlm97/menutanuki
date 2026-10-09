@@ -1,5 +1,11 @@
 PROYECTO: MENÚ DIGITAL — TANUKI BAR / TERRAZA PASCANA
-VERSIÓN: 6
+VERSIÓN DE DATOS: 8
+
+ACTUALIZACIÓN DEL 9 DE OCTUBRE DE 2026
+- Precios actualizados y alternativas frapeadas, Diesel y Pecera Personal.
+- Mega Berry para 4 a 6 personas: limón Bs 275, frutas Bs 299.
+- CSV, Excel, menu_data.json y fallback-data.js sincronizados.
+- Diez imágenes provisionales con nombres propios; consultar REPORTE_IMAGENES.txt.
 
 NOVEDADES V6
 - Base de datos actualizada desde el archivo cocktails (1).xlsm.
@@ -30,6 +36,8 @@ CÓMO EDITAR LOS DATOS
    - una URL directa https://...
    - un enlace compartido de Google Drive o Dropbox.
 7. activo debe ser TRUE para mostrar la bebida.
+8. Mantén menu_data.json y fallback-data.js sincronizados con el CSV.
+   El respaldo integrado se usa cuando no se puede cargar cocktails.csv.
 
 IMPORTANTE SOBRE LAS FOTOGRAFÍAS
 Las rutas del Excel se integraron exactamente. El ZIP solo puede incluir los archivos de imagen que estaban disponibles en el proyecto previo. Consulta REPORTE_IMAGENES.txt. Para las rutas pendientes, copia cada fotografía en assets/images con el nombre indicado o cambia la celda imagen por una URL pública directa.

@@ -1,40 +1,44 @@
-REPORTE DE IMÁGENES — V6
+REPORTE DE IMÁGENES Y CAMBIOS DEL MENÚ
+Actualización: 9 de octubre de 2026
 
-Rutas registradas: 30
-Archivos incluidos: 3
-Rutas locales pendientes: 27
-URLs externas: 0
+36 productos y alternativas activos, con 36 rutas propias de imagen.
+10 fotografías copiadas provisionalmente. No se generaron imágenes nuevas.
+Formato conservado: assets/images/nombre-del-producto.jpg
 
-ARCHIVOS INCLUIDOS
-- Gin Tonic Clásico: assets/images/gin-tonic-clasico.png
-- Gin Tonic Berry Fiesta: assets/images/gin-tonic-berry-fiesta.png
-- Gin Tonic de Pepino: assets/images/gin-tonic-pepino.png
+FOTOGRAFÍAS PROVISIONALES PARA REEMPLAZAR
+Producto | Archivo nuevo | Foto utilizada
+Daiquiri de Frutilla Frapeado | daiquiri-frutilla-frapeado.jpg | daiquiri-frutilla.jpg
+Daiquiri de Maracuyá Frapeado | daiquiri-maracuya-frapeado.jpg | daiquiri-maracuya.jpg
+Daiquiri de Piña Frapeado | daiquiri-pina-frapeado.jpg | daiquiri-pina.jpg
+Pecera Personal | pecera-personal.jpg | pecera.jpg
+Diesel Amstel | diesel-amstel.jpg | cuba-libre.jpg
+Diesel Huari | diesel-huari.jpg | cuba-libre.jpg
+Vodka Sunrise | vodka-sunrise.jpg | tequila-sunrise.jpg
+Tequila Sunrise Virgen | tequila-sunrise-virgen.jpg | tequila-sunrise.jpg
+Mojito Virgen | mojito-virgen.jpg | mojito.jpg
+Piña Colada Virgen | pina-colada-virgen.jpg | pina-colada.jpg
 
-RUTAS LOCALES PENDIENTES (agrega el archivo en esa ubicación o reemplaza la celda por una URL directa)
-- Aperol Spritz: assets/images/aperol-spritz.png
-- Caipirinha: assets/images/caipirinha.png
-- Chuflay: assets/images/chuflay.png
-- Cuba Libre: assets/images/cuba-libre.png
-- Daiquiri de Frutilla: assets/images/daiquiri-frutilla.png
-- Daiquiri de Maracuyá: assets/images/daiquiri-maracuya.png
-- Daiquiri de Piña: assets/images/daiquiri-pina.png
-- Fernet: assets/images/fernet.png
-- Limonada Eléctrica: assets/images/limonada-electrica.png
-- Mega Berry Frutilla: assets/images/mega-frutilla.png
-- Mega Berry Limón: assets/images/mega-limon.png
-- Mega Berry Maracuyá: assets/images/mega-maracuya.png
-- Mojito: assets/images/mojito.png
-- Negroni: assets/images/negroni.png
-- Pecera: assets/images/pecera.png
-- Piña Colada: assets/images/pina-colada.png
-- Tequila Sunrise: assets/images/tequila-sunrise.png
-- Vampire Sips: assets/images/vampire-sips.png
-- Singroni: assets/images/singroni.png
-- Vodka Sunrise: assets/images/tequila-sunrise.png
-- Soda Italiana de Arándanos: assets/images/soda-italiana-arandanos.png
-- Soda Italiana de Frutos Rojos: assets/images/soda-italiana-frutos-rojos.png
-- Tentación de Arándanos: assets/images/tentacion-arandanos.png
-- Tequila Sunrise Virgen: assets/images/tequila-sunrise.png
-- Mojito Virgen: assets/images/mojito.png
-- Piña Colada Virgen: assets/images/pina-colada.png
-- Soda Italiana de Piña: assets/images/soda-italiana-pina.png
+Todos los archivos de esta lista están en assets/images/.
+Para incorporar la fotografía definitiva, reemplaza el archivo con el mismo nombre.
+Diesel usa Cuba Libre solo como imagen provisional: no representa su receta.
+Pecera Personal conserva provisionalmente la imagen de la Pecera original.
+Vodka Sunrise y las tres versiones sin alcohol ya compartían las fotos indicadas;
+ahora tienen copias independientes para poder sustituirlas sin afectar al original.
+
+CAMBIOS APLICADOS
+- Precios del CSV recibido incorporados a todos los productos correspondientes.
+- Daiquiri: Frutilla, Maracuyá y Piña a Bs 49; frapeados a Bs 60.
+- Diesel: Amstel a Bs 30 y Huari a Bs 35.
+- Receta de Diesel confirmada por el propietario: 70% cerveza y 30% Coca-Cola.
+- Pecera a Bs 60 y Pecera Personal a Bs 45, agrupadas en la misma ficha.
+- Mega Berry: Limón a Bs 275; Frutilla y Maracuyá a Bs 299.
+- Mega Berry indica 4 a 6 personas en la tarjeta y en cada variante.
+- Se conservó la grafía Daiquiri y los identificadores existentes del sitio.
+- No había Chop ni Chop de litro en la versión revisada. No se ofrecen en el menú final.
+- CSV, JSON, respaldo integrado y Excel sincronizados con los mismos 36 productos.
+- El informe anterior mencionaba archivos PNG ausentes y estaba desactualizado.
+
+PENDIENTES DE DATOS
+Las recetas de Mega Berry Limón y Mega Berry Maracuyá ya estaban marcadas
+como pendientes de validar. Se conservó ese estado porque el CSV solo actualiza
+sus precios y cantidad de personas; no confirma sus ingredientes.
